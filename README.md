@@ -1,3 +1,2 @@
-# PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-Code accompanying CVPR'20 paper of the same title. Paper link: https://arxiv.org/pdf/2003.03808.pdf
+　ipynbファイルをクリックするとJupyter notebook形式のファイルが表示されます。先頭にある「Open in Colab」ボタンを押すと、Google Colab上で実行できます。使用環境は、Google Colab が動作すれば、どんなものでも構いません。
 
